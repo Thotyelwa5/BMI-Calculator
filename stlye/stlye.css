@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.calculator-container{
+    width: 25rem;
+    height: 25rem;
+    margin-inline: auto;
+    background-color: grey;
+    padding: 50px;
+    border-radius: 15%;
+    margin-top: 13%;
+}
+.hello{
+    padding: 20px;
+    font-size: 20px;
+}
+button{
+    /* padding: 10px; */
+    width: 100px;
+    height: 50px;
+    border-radius: 15%;
+    margin-bottom: 15px;
+    margin-left: 35px;
+    
+
+}
+input{
+    height: 35px;
+    width: 150px;
+    border-radius: 10%;
+}
